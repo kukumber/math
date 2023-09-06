@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "monospaceFontFamily": "Input Mono",
+  "enabledCssSnippets": [
+    "image"
+  ]
+}

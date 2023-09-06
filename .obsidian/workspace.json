@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "4131c38d73d92a2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "47f550815f519913",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd3be65f27ab4353",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "вебграфы/неделя 01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ac6c41456d13be5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcb51724f99d6cdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46d2924421ce1aeb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "387a16f0961ddca5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "apache",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f168c749d3fda4f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "31427d86b1645754",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5026054382324
+  },
+  "right": {
+    "id": "a096691d904bb4a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d11f76cdee940c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2c98fe24bd83783",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "вебграфы/неделя 01.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27ff08b9f540913a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "вебграфы/неделя 01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b93ea8841f1c1f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b033419fa0241ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "вебграфы/неделя 01.md"
+              }
+            }
+          },
+          {
+            "id": "5404529bd381e4d1",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dd3be65f27ab4353",
+  "lastOpenFiles": [
+    "вебграфы/неделя 01 2.md",
+    "теория кодирования/неделя 01.md",
+    "Untitled.md",
+    "продвинутые графы/_теоремы.md",
+    "оптимизация/тест 2.md",
+    "оптимизация/тест.md",
+    "оптимизация/задача 4.md",
+    "продвинутые графы/тест.md",
+    "продвинутые графы/06.md",
+    "продвинутые графы/07.md",
+    "продвинутые графы/02.md",
+    "мат. статистика/неделя 01.md",
+    "теория вероятностей/теория вероятностей.md",
+    "теория вероятностей/вопросы.md",
+    "теория вероятностей/_определения.md",
+    "теория графов/циклы.md",
+    "теория игр/задачи.md",
+    "теория игр/тезисы.md",
+    "теория игр/_теория игр.md",
+    "номер группы.md",
+    "ссылки.md",
+    "комбинаторика/задачи.md",
+    "комбинаторика/комбинаторика.md",
+    "мат анализ/Задачи.md",
+    "мат. статистика/links.md",
+    "мат. статистика/manga/Untitled.md",
+    "вебграфы/images/неделя 01-8.png",
+    "вебграфы/images/неделя 01-7.png",
+    "вебграфы/images/неделя 01-6.png",
+    "вебграфы/images/неделя 01-5.png",
+    "вебграфы/images/неделя 01-4.png",
+    "вебграфы/images/неделя 01-3.png",
+    "вебграфы/images/неделя 01-2.png",
+    "вебграфы/images/неделя 01-3.png",
+    "вебграфы/images/неделя 01-1.png",
+    "вебграфы/images/неделя 01.png",
+    "вебграфы/images",
+    "вебграфы",
+    "диплом/backup",
+    "теория кодирования/images",
+    "теория кодирования",
+    "мат. статистика/экзамен",
+    "мат. статистика/manga",
+    "статистика MIT/images",
+    "статистика MIT",
+    "диплом/ресурсы"
+  ]
+}

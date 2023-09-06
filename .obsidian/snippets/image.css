@@ -1,0 +1,55 @@
+img[alt*="w90"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+img[alt*="w80"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+img[alt*="w75"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+img[alt*="w70"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+img[alt*="w60"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+img[alt*="w50"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+img[alt*="w40"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+img[alt*="w30"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
